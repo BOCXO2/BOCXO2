@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BOCXO2
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate on Google, Yandex or Tinkoff
 - 📫 How to reach me email - gamer2006.g@mail.ru
 
 <!---
